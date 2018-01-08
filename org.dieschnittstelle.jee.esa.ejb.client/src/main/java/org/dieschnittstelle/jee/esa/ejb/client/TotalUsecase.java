@@ -30,7 +30,7 @@ public class TotalUsecase {
 			e.printStackTrace();
 		}
 	}
-	
+
 	// declare the session as stepping or not
 	private boolean stepping = true;
 	// allow to switch error provocation from outside via setting this attribute
@@ -52,7 +52,7 @@ public class TotalUsecase {
 	public TotalUsecase() throws Exception {
 		instantiateClients();
 	}
-	
+
 	public void runAll() {
 
 		System.out.println("\n%%%%%%%%%%%% TotalUsecase: " + (this.provokeErrorOnPurchase ? "ShoppingException will be provoked (ADD4)" : "will run regularly") + ", " + (this.useShoppingSessionFacade ? "remote ShoppingSessionFacade will be used (PAT)" : "will use local ShoppingSession implementation") + " %%%%%%%%%%%\n\n");
@@ -166,7 +166,7 @@ public class TotalUsecase {
 						// for PAT1: use the ShoppingSessionFacadeClient as implementation of the business delegate
 						session = new ShoppingSessionFacadeClient();
 					}
-					
+
 					// add a customer and a touchpoint
 					session.setCustomer(Constants.CUSTOMER_1);
 					session.setTouchpoint(Constants.TOUCHPOINT_1);

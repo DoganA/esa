@@ -7,6 +7,13 @@ import org.apache.log4j.Logger;
 
 import javax.persistence.*;
 
+import javax.xml.bind.annotation.XmlAccessType;
+import javax.xml.bind.annotation.XmlAccessorType;
+import javax.xml.bind.annotation.XmlType;
+
+@XmlAccessorType(XmlAccessType.PROPERTY)
+@XmlType(namespace = "http://dieschnittstelle.org/jee/esa/entities/erp")
+@Entity
 public class IndividualisedProductItem extends AbstractProduct implements Serializable {
 
 	protected static Logger logger = Logger.getLogger(IndividualisedProductItem.class);

@@ -1,9 +1,6 @@
 package org.dieschnittstelle.jee.esa.ejb.client.demos;
 
-import static org.dieschnittstelle.jee.esa.ejb.client.Constants.PRODUCT_1;
-import static org.dieschnittstelle.jee.esa.ejb.client.Constants.PRODUCT_2;
-import static org.dieschnittstelle.jee.esa.ejb.client.Constants.TOUCHPOINT_1;
-import static org.dieschnittstelle.jee.esa.ejb.client.Constants.TOUCHPOINT_2;
+
 
 import org.apache.log4j.Logger;
 import org.dieschnittstelle.jee.esa.ejb.client.ejbclients.EJBProxyFactory;
@@ -13,6 +10,7 @@ import org.dieschnittstelle.jee.esa.ejb.client.ejbclients.ProductCRUDClient;
 import org.dieschnittstelle.jee.esa.ejb.client.ejbclients.StockSystemClient;
 import org.dieschnittstelle.jee.esa.ejb.client.ejbclients.TouchpointAccessClient;
 
+import static org.dieschnittstelle.jee.esa.ejb.client.Constants.*;
 import static org.dieschnittstelle.jee.esa.utils.Utils.*;
 
 public class ShowStockSystem {
@@ -103,6 +101,13 @@ public class ShowStockSystem {
 				TOUCHPOINT_2.getErpPointOfSaleId(), 90);
 		stockSystemClient.addToStock(PRODUCT_2,
 				TOUCHPOINT_1.getErpPointOfSaleId(), 80);
+
+		System.out.println("update item...");
+		Utils.step();
+		stockSystemClient.addToStock(PRODUCT_2,
+				TOUCHPOINT_1.getErpPointOfSaleId(), 80);
+		Utils.step();
+
 //		stockSystemClient.addToStock(PRODUCT_2,
 //				TOUCHPOINT_2.getErpPointOfSaleId(), 100);
 

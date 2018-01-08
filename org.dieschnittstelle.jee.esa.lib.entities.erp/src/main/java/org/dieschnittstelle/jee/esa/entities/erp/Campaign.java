@@ -9,8 +9,12 @@ import org.apache.commons.lang.builder.HashCodeBuilder;
 import org.apache.log4j.Logger;
 
 import javax.persistence.*;
+import javax.xml.bind.annotation.XmlSeeAlso;
+import javax.xml.bind.annotation.XmlType;
 
 
+@XmlType(namespace = "http://dieschnittstelle.org/jee/esa/entities/erp")
+@Entity
 public class Campaign extends AbstractProduct implements Serializable {
 
 	protected static Logger logger = Logger.getLogger(Campaign.class);
@@ -20,6 +24,7 @@ public class Campaign extends AbstractProduct implements Serializable {
 	 */
 	private static final long serialVersionUID = 4407600000386810001L;
 
+	@OneToMany(cascade = CascadeType.ALL)
 	private List<ProductBundle> bundles;
 
 	public Campaign() {
