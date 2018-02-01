@@ -117,7 +117,7 @@ public abstract class AbstractTouchpoint implements Serializable, GenericCRUDEnt
 	}
 
 	// this annotation must be set on accessor methods rather than on the attributes themselves
-	@JsonIgnore
+	//@JsonIgnore
 	public Collection<Customer> getCustomers() {
 		return customers;
 	}

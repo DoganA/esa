@@ -102,6 +102,15 @@ public class ShoppingSession implements ShoppingBusinessDelegate {
 		// remove the products from stock
 		checkAndRemoveProductsFromStock();
 
+		// iterate over the products and purchase the campaigns
+		List<ShoppingCartItem> products = this.shoppingCart.getItems();
+		for (ShoppingCartItem productBundle : this.shoppingCart.getItems()) {
+			if (productBundle.isCampaign()) {
+				this.campaignTracking.purchaseCampaignAtTouchpoint(productBundle.getErpProductId(), this.touchpoint,
+						productBundle.getUnits());
+			}
+		}
+
 		// then we add a new customer transaction for the current purchase
 		List<ShoppingCartItem> products = this.shoppingCart.getItems();
 		CustomerTransaction transaction = new CustomerTransaction(this.customer, this.touchpoint, products);

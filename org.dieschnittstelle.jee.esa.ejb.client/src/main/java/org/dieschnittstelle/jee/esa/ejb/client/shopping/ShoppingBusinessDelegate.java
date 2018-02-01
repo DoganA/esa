@@ -13,6 +13,6 @@ public interface ShoppingBusinessDelegate {
 	
 	public void addProduct(AbstractProduct product, int units);
 	
-	public void purchase() throws ShoppingException;
+	public void purchase();
 
 }
