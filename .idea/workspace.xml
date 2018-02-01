@@ -2,53 +2,115 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28358fff-b6ce-4c33-9e88-2d66034fcfb9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.bas/target/bas-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.bas/target/classes/log4j.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.bas/target/classes/stockitems_annotations.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.bas/target/classes/stockitems_reflection.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.bas/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.bas/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.bas/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.ejbmodule.crm/target/ejb-ejbmodule-crm-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.ejbmodule.crm/target/ejb-ejbmodule-crm-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.ejbmodule.erp/target/ejb-ejbmodule-erp-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.ejbmodule.erp/target/ejb-ejbmodule-erp-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.webapp/target/org.dieschnittstelle.jee.esa.ejb.webapp.war" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.webapp/target/org.dieschnittstelle.jee.esa.ejb.webapp.war" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/ejb-earapp-1.0-SNAPSHOT/lib/org.dieschnittstelle.jee.esa.entities.crm.jar" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/ejb-earapp-1.0-SNAPSHOT/lib/org.dieschnittstelle.jee.esa.entities.crm.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/ejb-earapp-1.0-SNAPSHOT/lib/org.dieschnittstelle.jee.esa.entities.erp.jar" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/ejb-earapp-1.0-SNAPSHOT/lib/org.dieschnittstelle.jee.esa.entities.erp.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/ejb-earapp-1.0-SNAPSHOT/lib/org.dieschnittstelle.jee.esa.utils.jar" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/ejb-earapp-1.0-SNAPSHOT/lib/org.dieschnittstelle.jee.esa.utils.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/org.dieschnittstelle.jee.esa.ejb.ear" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/org.dieschnittstelle.jee.esa.ejb.ear" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.client/src/main/java/org/dieschnittstelle/jee/esa/ejb/client/TotalUsecase.java" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.client/src/main/java/org/dieschnittstelle/jee/esa/ejb/client/TotalUsecase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.client/src/main/java/org/dieschnittstelle/jee/esa/ejb/client/shopping/ShoppingBusinessDelegate.java" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.client/src/main/java/org/dieschnittstelle/jee/esa/ejb/client/shopping/ShoppingBusinessDelegate.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.client/src/main/java/org/dieschnittstelle/jee/esa/ejb/client/shopping/ShoppingSession.java" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.client/src/main/java/org/dieschnittstelle/jee/esa/ejb/client/shopping/ShoppingSession.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.ejbmodule.crm/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.ejbmodule.crm/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.ejbmodule.crm/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.ejbmodule.crm/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.ejbmodule.erp/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.ejbmodule.erp/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.ejbmodule.erp/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.ejbmodule.erp/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.ejbmodule.erp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.ejbmodule.erp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.webapp/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.webapp/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.webapp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.webapp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/antrun/build-main.xml" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/antrun/build-main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/ejb-earapp-1.0-SNAPSHOT/org.dieschnittstelle.jee.esa.ejb.webapp.war/META-INF/maven/org.dieschnittstelle.jee.esa/ejb-webapp/pom.properties" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/ejb-earapp-1.0-SNAPSHOT/org.dieschnittstelle.jee.esa.ejb.webapp.war/META-INF/maven/org.dieschnittstelle.jee.esa/ejb-webapp/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.lib.entities.crm/src/main/java/org/dieschnittstelle/jee/esa/entities/crm/AbstractTouchpoint.java" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.lib.entities.crm/src/main/java/org/dieschnittstelle/jee/esa/entities/crm/AbstractTouchpoint.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ue.add2/pom.xml" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ue.add2/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ue.add2/src/main/java/org/dieschnittstelle/jee/esa/ue/add2/junit/Constants.java" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ue.add2/src/main/java/org/dieschnittstelle/jee/esa/ue/add2/junit/Constants.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ue.add2/src/main/java/org/dieschnittstelle/jee/esa/ue/add2/junit/ProductCRUDClient.java" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ue.add2/src/main/java/org/dieschnittstelle/jee/esa/ue/add2/junit/ProductCRUDClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ue.add2/src/main/java/org/dieschnittstelle/jee/esa/ue/add2/junit/TestProductCRUD.java" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ue.add2/src/main/java/org/dieschnittstelle/jee/esa/ue/add2/junit/TestProductCRUD.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ue.add3/pom.xml" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ue.add3/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ue.add3/src/main/java/org/dieschnittstelle/jee/esa/ue/add3/junit/TestStockSystemWebService.java" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ue.add3/src/main/java/org/dieschnittstelle/jee/esa/ue/add3/junit/TestStockSystemWebService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ue.jws4/ue-jws4.iml" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ue.jws4/ue-jws4.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ue.jws5/pom.xml" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ue.jws5/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ue.jws5/src/main/java/org/dieschnittstelle/jee/esa/ue/jws5/junit/ProductCRUDSOAPClient.java" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ue.jws5/src/main/java/org/dieschnittstelle/jee/esa/ue/jws5/junit/ProductCRUDSOAPClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ue.jws5/src/main/java/org/dieschnittstelle/jee/esa/ue/jws5/junit/TestProductCRUDSOAPService.java" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ue.jws5/src/main/java/org/dieschnittstelle/jee/esa/ue/jws5/junit/TestProductCRUDSOAPService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ue.jws5/src/main/resources/log4j.properties" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ue.jws5/src/main/resources/log4j.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ue.jws5/ue-jws5.iml" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ue.jws5/ue-jws5.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.wsv.client/src/main/java/org/dieschnittstelle/jee/esa/wsv/client/AccessRESTServiceWithInterpreter.java" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.wsv.client/src/main/java/org/dieschnittstelle/jee/esa/wsv/client/AccessRESTServiceWithInterpreter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.wsv.client/src/main/java/org/dieschnittstelle/jee/esa/wsv/client/service/ITouchpointCRUDService.java" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.wsv.client/src/main/java/org/dieschnittstelle/jee/esa/wsv/client/service/ITouchpointCRUDService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.wsv.client/src/main/java/org/dieschnittstelle/jee/esa/wsv/interpreter/JAXRSClientInterpreter.java" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.wsv.client/src/main/java/org/dieschnittstelle/jee/esa/wsv/interpreter/JAXRSClientInterpreter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.wsv.client/src/main/java/org/dieschnittstelle/jee/esa/wsv/interpreter/json/JSONObjectMapper.java" afterPath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.wsv.client/src/main/java/org/dieschnittstelle/jee/esa/wsv/interpreter/json/JSONObjectMapper.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.ejbmodule.crm/target/classes/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.ejbmodule.crm/target/classes/META-INF/ejb-jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.ejbmodule.crm/target/classes/META-INF/jpa-ds.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.ejbmodule.crm/target/classes/META-INF/persistence.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.ejbmodule.crm/target/ejb-ejbmodule-crm-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.ejbmodule.crm/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.ejbmodule.crm/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.ejbmodule.crm/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.ejbmodule.erp/target/classes/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.ejbmodule.erp/target/classes/META-INF/ejb-jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.ejbmodule.erp/target/classes/META-INF/jpa-ds.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.ejbmodule.erp/target/classes/META-INF/persistence.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.ejbmodule.erp/target/ejb-ejbmodule-erp-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.ejbmodule.erp/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.ejbmodule.erp/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.ejbmodule.erp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.webapp/target/ejb-webapp-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.webapp/target/ejb-webapp-1.0-SNAPSHOT/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.webapp/target/ejb-webapp-1.0-SNAPSHOT/gui.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.webapp/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.webapp/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.webapp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb.webapp/target/org.dieschnittstelle.jee.esa.ejb.webapp.war" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/antrun/build-main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/application.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/ejb-earapp-1.0-SNAPSHOT/META-INF/MANIFEST.MF.BAK" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/ejb-earapp-1.0-SNAPSHOT/META-INF/jboss-deployment-structure.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/ejb-earapp-1.0-SNAPSHOT/lib/org.dieschnittstelle.jee.esa.entities.crm.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/ejb-earapp-1.0-SNAPSHOT/lib/org.dieschnittstelle.jee.esa.entities.erp.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/ejb-earapp-1.0-SNAPSHOT/lib/org.dieschnittstelle.jee.esa.utils.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/ejb-earapp-1.0-SNAPSHOT/log4j-1.2.17.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/ejb-earapp-1.0-SNAPSHOT/org.dieschnittstelle.jee.esa.ejb.ejbmodule.crm.jar/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/ejb-earapp-1.0-SNAPSHOT/org.dieschnittstelle.jee.esa.ejb.ejbmodule.crm.jar/META-INF/ejb-jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/ejb-earapp-1.0-SNAPSHOT/org.dieschnittstelle.jee.esa.ejb.ejbmodule.crm.jar/META-INF/jpa-ds.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/ejb-earapp-1.0-SNAPSHOT/org.dieschnittstelle.jee.esa.ejb.ejbmodule.crm.jar/META-INF/persistence.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/ejb-earapp-1.0-SNAPSHOT/org.dieschnittstelle.jee.esa.ejb.ejbmodule.erp.jar/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/ejb-earapp-1.0-SNAPSHOT/org.dieschnittstelle.jee.esa.ejb.ejbmodule.erp.jar/META-INF/ejb-jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/ejb-earapp-1.0-SNAPSHOT/org.dieschnittstelle.jee.esa.ejb.ejbmodule.erp.jar/META-INF/jpa-ds.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/ejb-earapp-1.0-SNAPSHOT/org.dieschnittstelle.jee.esa.ejb.ejbmodule.erp.jar/META-INF/persistence.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/ejb-earapp-1.0-SNAPSHOT/org.dieschnittstelle.jee.esa.ejb.webapp.war/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/ejb-earapp-1.0-SNAPSHOT/org.dieschnittstelle.jee.esa.ejb.webapp.war/META-INF/maven/org.dieschnittstelle.jee.esa/ejb-webapp/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/ejb-earapp-1.0-SNAPSHOT/org.dieschnittstelle.jee.esa.ejb.webapp.war/META-INF/maven/org.dieschnittstelle.jee.esa/ejb-webapp/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/ejb-earapp-1.0-SNAPSHOT/org.dieschnittstelle.jee.esa.ejb.webapp.war/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/ejb-earapp-1.0-SNAPSHOT/org.dieschnittstelle.jee.esa.ejb.webapp.war/gui.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ejb/target/org.dieschnittstelle.jee.esa.ejb.ear" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs.api/target/jrs-api-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs.api/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs.api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs.api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs.client/target/classes/log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs.client/target/jrs-client-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs.client/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs.client/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs.client/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/classes/log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/jrs-webapp-1.0-SNAPSHOT.war" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/jrs-webapp-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/jrs-webapp-1.0-SNAPSHOT/META-INF/services/javax.servlet.ServletContainerInitializer" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/jrs-webapp-1.0-SNAPSHOT/WEB-INF/classes/log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/jrs-webapp-1.0-SNAPSHOT/WEB-INF/lib/activation-1.1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/jrs-webapp-1.0-SNAPSHOT/WEB-INF/lib/async-http-servlet-3.0-3.0.13.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/jrs-webapp-1.0-SNAPSHOT/WEB-INF/lib/commons-codec-1.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/jrs-webapp-1.0-SNAPSHOT/WEB-INF/lib/commons-io-2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/jrs-webapp-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/jrs-webapp-1.0-SNAPSHOT/WEB-INF/lib/httpclient-4.3.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/jrs-webapp-1.0-SNAPSHOT/WEB-INF/lib/httpcore-4.3.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/jrs-webapp-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.4.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/jrs-webapp-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.4.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/jrs-webapp-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.4.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/jrs-webapp-1.0-SNAPSHOT/WEB-INF/lib/jackson-jaxrs-base-2.4.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/jrs-webapp-1.0-SNAPSHOT/WEB-INF/lib/jackson-jaxrs-json-provider-2.4.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/jrs-webapp-1.0-SNAPSHOT/WEB-INF/lib/jackson-module-jaxb-annotations-2.4.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/jrs-webapp-1.0-SNAPSHOT/WEB-INF/lib/javax.ws.rs-api-2.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/jrs-webapp-1.0-SNAPSHOT/WEB-INF/lib/jboss-annotations-api_1.2_spec-1.0.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/jrs-webapp-1.0-SNAPSHOT/WEB-INF/lib/jboss-jaxrs-api_2.0_spec-1.0.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/jrs-webapp-1.0-SNAPSHOT/WEB-INF/lib/jboss-logging-3.1.4.GA.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/jrs-webapp-1.0-SNAPSHOT/WEB-INF/lib/jcip-annotations-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/jrs-webapp-1.0-SNAPSHOT/WEB-INF/lib/jrs-api-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/jrs-webapp-1.0-SNAPSHOT/WEB-INF/lib/lib-entities-crm-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/jrs-webapp-1.0-SNAPSHOT/WEB-INF/lib/lib-entities-erp-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/jrs-webapp-1.0-SNAPSHOT/WEB-INF/lib/lib-esa-utils-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/jrs-webapp-1.0-SNAPSHOT/WEB-INF/lib/log4j-1.2.17.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/jrs-webapp-1.0-SNAPSHOT/WEB-INF/lib/resteasy-jackson2-provider-3.0.13.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/jrs-webapp-1.0-SNAPSHOT/WEB-INF/lib/resteasy-jaxrs-3.0.13.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/jrs-webapp-1.0-SNAPSHOT/WEB-INF/lib/resteasy-servlet-initializer-3.0.13.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/jrs-webapp-1.0-SNAPSHOT/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/jrs-webapp-1.0-SNAPSHOT/gui.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.jrs/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ser.client/target/classes/log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ser.client/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ser.client/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ser.client/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ser.client/target/ser-client-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ser/target/classes/log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ser/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ser/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ser/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ser/target/org.dieschnittstelle.jee.esa.ser.war" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ser/target/ser-webapp-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ser/target/ser-webapp-1.0-SNAPSHOT/WEB-INF/classes/log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ser/target/ser-webapp-1.0-SNAPSHOT/WEB-INF/lib/lib-entities-crm-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ser/target/ser-webapp-1.0-SNAPSHOT/WEB-INF/lib/lib-entities-erp-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ser/target/ser-webapp-1.0-SNAPSHOT/WEB-INF/lib/lib-esa-utils-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ser/target/ser-webapp-1.0-SNAPSHOT/WEB-INF/lib/log4j-1.2.17.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ser/target/ser-webapp-1.0-SNAPSHOT/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.ser/target/ser-webapp-1.0-SNAPSHOT/gui.jsp" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.applications.jrs/target/" />
     <ignored path="$PROJECT_DIR$/org.dieschnittstelle.jee.esa.applications.ejb/target/" />
@@ -105,8 +167,8 @@
       <file leaf-file-name="ITouchpointCRUDService.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/org.dieschnittstelle.jee.esa.wsv.client/src/main/java/org/dieschnittstelle/jee/esa/wsv/client/service/ITouchpointCRUDService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+            <state relative-caret-position="504">
+              <caret line="28" column="28" lean-forward="false" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -231,11 +293,16 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="build-ejb" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="build-all-modules" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="ue-jws5" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="build-all-modules" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="build-ejb" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
       </expand>
       <select />
@@ -401,10 +468,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -484,6 +549,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -671,11 +738,12 @@
       <workItem from="1517480651246" duration="254000" />
       <workItem from="1517484856953" duration="7706000" />
       <workItem from="1517497940100" duration="1864000" />
+      <workItem from="1517501334558" duration="36000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73314000" />
+    <option name="totallyTimeSpent" value="73350000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -688,6 +756,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -703,24 +772,24 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20387244" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="47" y="477" width="1864" height="279" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1768868" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30070755" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33959228" sideWeight="0.60028654" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3444206" sideWeight="0.60028654" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.021995708" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.26019314" sideWeight="0.2095672" order="2" side_tool="true" content_ui="tabs" x="717" y="76" width="485" height="878" />
       <window_info id="JavaEE:App" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33959228" sideWeight="0.40246046" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33959228" sideWeight="0.39971346" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33959228" sideWeight="0.39971346" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="47" y="477" width="1864" height="279" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1017,7 +1086,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
           <caret line="33" column="42" lean-forward="false" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="128" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1032,7 +1100,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="631">
           <caret line="73" column="21" lean-forward="true" selection-start-line="58" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1040,7 +1107,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="279">
           <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1048,7 +1114,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="401">
           <caret line="49" column="15" lean-forward="false" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1056,7 +1121,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1064,7 +1128,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="54" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1072,7 +1135,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1080,7 +1142,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" column="55" lean-forward="true" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1088,9 +1149,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="354">
           <caret line="239" column="37" lean-forward="false" selection-start-line="239" selection-start-column="22" selection-end-line="239" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1098,7 +1156,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1106,7 +1163,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="303">
           <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1120,8 +1176,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/org.dieschnittstelle.jee.esa.wsv.client/src/main/java/org/dieschnittstelle/jee/esa/wsv/client/service/ITouchpointCRUDService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        <state relative-caret-position="504">
+          <caret line="28" column="28" lean-forward="false" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
           <folding />
         </state>
       </provider>
